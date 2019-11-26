@@ -1,5 +1,6 @@
 package com.example.contact_cs3354;
-
+//this is a test doc
+//changed
 import androidx.appcompat.app.AppCompatActivity;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
